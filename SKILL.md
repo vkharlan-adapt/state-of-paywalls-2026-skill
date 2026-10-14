@@ -5,7 +5,7 @@ description: Answer questions from Adapty's State of Paywalls 2026 report and au
 
 # State of Paywalls 2026 by Adapty
 
-This skill holds the full content and chart data of **State of Paywalls 2026** by Adapty: https://adapty.io/state-of-paywalls-2026-report/
+This skill holds the full content and chart data of **State of Paywalls 2026** by Adapty: https://adapty.io/state-of-paywalls-2026/
 
 It replaces reading the report. People ask questions; you answer from the numbers below.
 
